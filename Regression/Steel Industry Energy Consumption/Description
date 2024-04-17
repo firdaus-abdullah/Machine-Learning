@@ -1,1 +1,27 @@
+# Small-Scale Steel Industry Dataset from South Korea
+
+- **Data Source**: DAEWOO Steel Co. Ltd, Gwangyang, South Korea; Korea Electric Power Corporation ([pccs.kepco.go.kr](http://pccs.kepco.go.kr))
+
+- **Dataset Link**: [Data.csv](https://archive.ics.uci.edu/static/public/851/data.csv)
+
+- **Date Donated**: 8/13/2023
+
+## Description
+This dataset contains information collected from a smart small-scale steel industry located in South Korea. DAEWOO Steel Co. Ltd in Gwangyang produces various types of coils, steel plates, and iron plates. The data includes details on electricity consumption stored in a cloud-based system, as well as energy consumption information from the Korea Electric Power Corporation website ([pccs.kepco.go.kr](http://pccs.kepco.go.kr)), showcasing daily, monthly, and annual perspectives.
+
+## Dataset Characteristics
+- **Feature Type**: Real, Categorical
+- **Target Variable**: Usage_kWh
+- **Instances**: 35040
+- **Features**: 9
+- **Multivariate**
+
+## Subject Area
+Physics and Chemistry
+
+## Associated Tasks
+Regression
+
+## Additional Information
+The information gathered is from the DAEWOO Steel Co. Ltd in Gwangyang, South Korea. It produces several types of coils, steel plates, and iron plates. The information on electricity consumption is held in a cloud-based system. The information on energy consumption of the industry is stored on the website of the Korea Electric Power Corporation ([pccs.kepco.go.kr](http://pccs.kepco.go.kr)), and the perspectives on daily, monthly, and annual data are calculated and shown.
 
